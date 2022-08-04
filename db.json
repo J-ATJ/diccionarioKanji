@@ -1,0 +1,543 @@
+{
+  "data":[
+    {
+      "kanji": "一",
+      "hiragana": "いち",
+      "romaji": "ichi",
+      "english": "one",
+      "spanish": "uno"
+    },
+    {
+      "kanji": "二",
+      "hiragana": "に",
+      "romaji": "ni",
+      "english": "two",
+      "spanish": "dos"
+    },
+    {
+      "kanji": "三",
+      "hiragana": "さん",
+      "romaji": "san",
+      "english": "three",
+      "spanish": "tres"
+    },
+    {
+      "kanji": "四",
+      "hiragana": "し",
+      "romaji": "shi",
+      "english": "four",
+      "spanish": "cuatro"
+    },
+    {
+      "kanji": "五",
+      "hiragana": "ご",
+      "romaji": "go",
+      "english": "five",
+      "spanish": "cinco"
+    },
+    {
+      "kanji": "六",
+      "hiragana": "ろく",
+      "romaji": "roku",
+      "english": "six",
+      "spanish": "seis"
+    },
+    {
+      "kanji": "七",
+      "hiragana": "しち",
+      "romaji": "shichi",
+      "english": "seven",
+      "spanish": "siete"
+    },
+    {
+      "kanji": "八",
+      "hiragana": "はち",
+      "romaji": "hachi",
+      "english": "eight",
+      "spanish": "ocho"
+    },
+    {
+      "kanji": "九",
+      "hiragana": "きゅう",
+      "romaji": "kyuu",
+      "english": "nine",
+      "spanish": "nueve"
+    },
+    {
+      "kanji": "十",
+      "hiragana": "じゅう",
+      "romaji": "jyuu",
+      "english": "ten",
+      "spanish": "diez"
+    },
+    {
+      "kanji": "百",
+      "hiragana": "ひゃく",
+      "romaji": "hyaku",
+      "english": "hundred",
+      "spanish": "cien"
+    },
+    {
+      "kanji": "千",
+      "hiragana": "せん",
+      "romaji": "sen",
+      "english": "thousand",
+      "spanish": "mil"
+    },
+    {
+      "kanji": "日",
+      "hiragana": "にち",
+      "romaji": "nichi",
+      "english": "day",
+      "spanish": "día"
+    },
+    {
+      "kanji": "月",
+      "hiragana": "つき",
+      "romaji": "tsuki",
+      "english": "moon",
+      "spanish": "luna"
+    },
+    {
+      "kanji": "火",
+      "hiragana": "ひ",
+      "romaji": "hi",
+      "english": "fire",
+      "spanish": "fuego"
+    },
+    {
+      "kanji": "水",
+      "hiragana": "みず",
+      "romaji": "mizu",
+      "english": "water",
+      "spanish": "agua"
+    },
+    {
+      "kanji": "木",
+      "hiragana": "き",
+      "romaji": "ki",
+      "english": "tree",
+      "spanish": "árbol"
+    },
+    {
+      "kanji": "金",
+      "hiragana": "きん",
+      "romaji": "kin",
+      "english": "gold",
+      "spanish": "oro"
+    },
+    {
+      "kanji": "土",
+      "hiragana": "つち",
+      "romaji": "tsuchi",
+      "english": "ground",
+      "spanish": "suelo"
+    },
+    {
+      "kanji": "山",
+      "hiragana": "やま",
+      "romaji": "yama",
+      "english": "mountain",
+      "spanish": "montaña"
+    },
+    {
+      "kanji": "川",
+      "hiragana": "かわ",
+      "romaji": "kawa",
+      "english": "river",
+      "spanish": "río"
+    },
+    {
+      "kanji": "子",
+      "hiragana": "こ",
+      "romaji": "ko",
+      "english": "child",
+      "spanish": "niño"
+    },
+    {
+      "kanji": "本",
+      "hiragana": "ほん",
+      "romaji": "hon",
+      "english": "book",
+      "spanish": "libro"
+    },
+    {
+      "kanji": "石",
+      "hiragana": "いし",
+      "romaji": "ishi",
+      "english": "stone",
+      "spanish": "roca"
+    },
+    {
+      "kanji": "田",
+      "hiragana": "た",
+      "romaji": "ta",
+      "english": "rice field",
+      "spanish": "campo de arroz"
+    },
+    {
+      "kanji": "天",
+      "hiragana": "てん",
+      "romaji": "ten",
+      "english": "heaven",
+      "spanish": "paraíso"
+    },
+    {
+      "kanji": "気",
+      "hiragana": "き",
+      "romaji": "ki",
+      "english": "spirit",
+      "spanish": "espíritu"
+    },
+    {
+      "kanji": "空",
+      "hiragana": "そら",
+      "romaji": "sora",
+      "english": "sky",
+      "spanish": "cielo"
+    },
+    {
+      "kanji": "雨",
+      "hiragana": "あめ",
+      "romaji": "ame",
+      "english": "rain",
+      "spanish": "lluvia"
+    },
+    {
+      "kanji": "花",
+      "hiragana": "はな",
+      "romaji": "hana",
+      "english": "flower",
+      "spanish": "flor"
+    },
+    {
+      "kanji": "草",
+      "hiragana": "くさ",
+      "romaji": "kusa",
+      "english": "grass",
+      "spanish": "césped"
+    },
+    {
+      "kanji": "林",
+      "hiragana": "はやし",
+      "romaji": "hayashi",
+      "english": "grove",
+      "spanish": "arboleda"
+    },
+    {
+      "kanji": "森",
+      "hiragana": "もり",
+      "romaji": "mori",
+      "english": "forest",
+      "spanish": "bosque"
+    },
+    {
+      "kanji": "竹",
+      "hiragana": "たけ",
+      "romaji": "take",
+      "english": "bamboo",
+      "spanish": "bambú"
+    },
+    {
+      "kanji": "虫",
+      "hiragana": "むし",
+      "romaji": "mushi",
+      "english": "insect",
+      "spanish": "insecto"
+    },
+    {
+      "kanji": "貝",
+      "hiragana": "かい",
+      "romaji": "kai",
+      "english": "shellfish",
+      "spanish": "almeja"
+    },
+    {
+      "kanji": "犬",
+      "hiragana": "いぬ",
+      "romaji": "inu",
+      "english": "dog",
+      "spanish": "perro"
+    },
+    {
+      "kanji": "大",
+      "hiragana": "おおきい",
+      "romaji": "ookii",
+      "english": "big",
+      "spanish": "grande"
+    },
+    {
+      "kanji": "中",
+      "hiragana": "なか",
+      "romaji": "naka",
+      "english": "inside",
+      "spanish": "dentro"
+    },
+    {
+      "kanji": "小",
+      "hiragana": "ちいさい",
+      "romaji": "chiisai",
+      "english": "small",
+      "spanish": "pequeño"
+    },
+    {
+      "kanji": "上",
+      "hiragana": "うえ",
+      "romaji": "ue",
+      "english": "above",
+      "spanish": "encima"
+    },
+    {
+      "kanji": "下",
+      "hiragana": "した",
+      "romaji": "shita",
+      "english": "below",
+      "spanish": "debajo"
+    },
+    {
+      "kanji": "左",
+      "hiragana": "ひだり",
+      "romaji": "hidari",
+      "english": "left",
+      "spanish": "izquierda"
+    },
+    {
+      "kanji": "右",
+      "hiragana": "みぎ",
+      "romaji": "migi",
+      "english": "right",
+      "spanish": "derecha"
+    },
+    {
+      "kanji": "男",
+      "hiragana": "おとこ",
+      "romaji": "otoko",
+      "english": "man",
+      "spanish": "hombre"
+    },
+    {
+      "kanji": "女",
+      "hiragana": "おんな",
+      "romaji": "onna",
+      "english": "woman",
+      "spanish": "mujer"
+    },
+    {
+      "kanji": "人",
+      "hiragana": "ひと",
+      "romaji": "hito",
+      "english": "person",
+      "spanish": "persona"
+    },
+    {
+      "kanji": "目",
+      "hiragana": "め",
+      "romaji": "me",
+      "english": "eye",
+      "spanish": "ojo"
+    },
+    {
+      "kanji": "耳",
+      "hiragana": "みみ",
+      "romaji": "mimi",
+      "english": "ear",
+      "spanish": "oreja"
+    },
+    {
+      "kanji": "口",
+      "hiragana": "くち",
+      "romaji": "kuchi",
+      "english": "mouth",
+      "spanish": "boca"
+    },
+    {
+      "kanji": "手",
+      "hiragana": "て",
+      "romaji": "te",
+      "english": "hand",
+      "spanish": "boca"
+    },
+    {
+      "kanji": "足",
+      "hiragana": "あし",
+      "romaji": "ashi",
+      "english": "leg",
+      "spanish": "pierna"
+    },
+    {
+      "kanji": "力",
+      "hiragana": "ちから",
+      "romaji": "chikara",
+      "english": "power",
+      "spanish": "poder"
+    },
+    {
+      "kanji": "学",
+      "hiragana": "がく",
+      "romaji": "gaku",
+      "english": "learning",
+      "spanish": "estudiar"
+    },
+    {
+      "kanji": "校",
+      "hiragana": "こう",
+      "romaji": "kou",
+      "english": "school",
+      "spanish": "escuela"
+    },
+    {
+      "kanji": "年",
+      "hiragana": "とし",
+      "romaji": "toshi",
+      "english": "year",
+      "spanish": "año"
+    },
+    {
+      "kanji": "生",
+      "hiragana": "なま",
+      "romaji": "nama",
+      "english": "raw",
+      "spanish": "crudo"
+    },
+    {
+      "kanji": "先",
+      "hiragana": "さき",
+      "romaji": "saki",
+      "english": "ahead",
+      "spanish": "delante"
+    },
+    {
+      "kanji": "文",
+      "hiragana": "ぶん",
+      "romaji": "bun",
+      "english": "sentence",
+      "spanish": "oración"
+    },
+    {
+      "kanji": "字",
+      "hiragana": "じ",
+      "romaji": "ji",
+      "english": "character",
+      "spanish": "caracter"
+    },
+    {
+      "kanji": "名",
+      "hiragana": "な",
+      "romaji": "na",
+      "english": "name",
+      "spanish": "nombre"
+    },
+    {
+      "kanji": "正",
+      "hiragana": "ただしい",
+      "romaji": "tadashii",
+      "english": "correct",
+      "spanish": "correcto"
+    },
+    {
+      "kanji": "赤",
+      "hiragana": "あか",
+      "romaji": "aka",
+      "english": "red",
+      "spanish": "rojo"
+    },
+    {
+      "kanji": "白",
+      "hiragana": "しろ",
+      "romaji": "shiro",
+      "english": "white",
+      "spanish": "blanco"
+    },
+    {
+      "kanji": "青",
+      "hiragana": "あお",
+      "romaji": "ao",
+      "english": "blue",
+      "spanish": "azul"
+    },
+    {
+      "kanji": "入",
+      "hiragana": "はいる",
+      "romaji": "hairu",
+      "english": "entering",
+      "spanish": "entrar"
+    },
+    {
+      "kanji": "出",
+      "hiragana": "でる",
+      "romaji": "deru",
+      "english": "go out",
+      "spanish": "salir"
+    },
+    {
+      "kanji": "立",
+      "hiragana": "たつ",
+      "romaji": "tatsu",
+      "english": "to stand",
+      "spanish": "levantarse"
+    },
+    {
+      "kanji": "休",
+      "hiragana": "やすむ",
+      "romaji": "yasumu",
+      "english": "to rest",
+      "spanish": "descansar"
+    },
+    {
+      "kanji": "見",
+      "hiragana": "みる",
+      "romaji": "miru",
+      "english": "seeing",
+      "spanish": "ver"
+    },
+    {
+      "kanji": "王",
+      "hiragana": "おう",
+      "romaji": "ou",
+      "english": "king",
+      "spanish": "rey"
+    },
+    {
+      "kanji": "糸",
+      "hiragana": "いと",
+      "romaji": "ito",
+      "english": "thread",
+      "spanish": "hilo"
+    },
+    {
+      "kanji": "車",
+      "hiragana": "くるま",
+      "romaji": "kuruma",
+      "english": "car",
+      "spanish": "coche"
+    },
+    {
+      "kanji": "音",
+      "hiragana": "おと",
+      "romaji": "oto",
+      "english": "sound",
+      "spanish": "sonido"
+    },
+    {
+      "kanji": "町",
+      "hiragana": "まち",
+      "romaji": "machi",
+      "english": "town",
+      "spanish": "pueblo"
+    },
+    {
+      "kanji": "村",
+      "hiragana": "むら",
+      "romaji": "mura",
+      "english": "village",
+      "spanish": "aldea"
+    },
+    {
+      "kanji": "夕",
+      "hiragana": "ゆう",
+      "romaji": "yuu",
+      "english": "evening",
+      "spanish": "tarde"
+    }
+  ]
+}
