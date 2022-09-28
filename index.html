@@ -64,7 +64,7 @@
         ctx.font = '15pt monospace';
         
         ypos.forEach((y, ind) => {
-            const text = String.fromCharCode(Math.random() * 128);
+            const text = String.fromCharCode(0x3040 + Math.random() * (0x30FF-0x3040+1));
             const x = ind * 20;
             ctx.fillText(text, x, y);
             if (y > 100 + Math.random() * 10000) ypos[ind] = 0;
